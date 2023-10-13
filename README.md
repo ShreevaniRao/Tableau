@@ -1,5 +1,4 @@
-# Using a sample Sales dataset of Tableau - Desktop
-### I created an interactive Sales Dashboard that provides valuable insights into sales details. The dashboard consists of various worksheets designed to present key performance indicators (KPIs), a list of top customers, a comparison of sales details by month for different products, daily trends of sales for any selected month, and sales details segmented by products. -
+### Using Tableau - Desktop, I created an interactive Sales Dashboard that provides valuable insights into Sales detail of a sample Sales dataset. The dashboard consists of various worksheets designed to present key performance indicators (KPIs), a list of top customers, a comparison of sales details by month for different products, daily trends of sales for any selected month, and sales details segmented by products. -
 * #### KPIs - for the top glance for quick & important metrics of overall sales performance for the stakeholders,
 * #### List of Top Customers for targeted marketing campaigns and promotiona pitching
 * #### Sales Details comparison of Products by Month which provides a visual representation of the sales performance of different products over time. This comparison aids in identifying trends, seasonality, and potential areas for product optimization or expansion.
