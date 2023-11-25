@@ -15,3 +15,5 @@
 * #### Explored the Correlation between the Video Length and View count of this Channel's regular videos and Shorts.
 * #### Created an insightful and attractive dashboard to showcase the KPIs, multiple detailed insights of the Videos and Shorts about their View Count, Number of Likes, Comments and Engagement with the viewers. The Dashboard displays the Coorelation trend for the regular videos with respect to the length and view count.
 * #### Ultimately the Dashboard suggests/recommends possible action items by detailing the Videos which have no Tags, are not performing well and disliked videos.
+
+![image](https://github.com/ShreevaniRao/Tableau/assets/123049057/6c54d370-de59-4d70-8d6f-0d11ef81c405)
