@@ -8,7 +8,7 @@
 
 ![image](https://github.com/ShreevaniRao/Tableau/assets/123049057/d26ef9db-26b6-4fb3-9c1a-a35f0ec41dd8)
 
-## -------------------------------------------------------------------------------------------------------
+
 #### 2. Insightful YouTube Channel Performance Dashboard that explores some interesting insights from the stats and trends of a YouTube Channel
 
 * #### I built multiple sheets to report KPIs and enhanced the insights with tooltips to demonstrate the details of the Youtube Videos and Shorts from a Channel.
